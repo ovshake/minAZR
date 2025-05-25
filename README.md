@@ -39,7 +39,7 @@ As you might have guessed, since it's minimal and for educative purposes, I have
 4. Proposer rewards are linked with solver. I have decoupled them. 
 
 
-I will detail their implementation in my [blog](mlresearchengineer.substack.com) soon. 
+I will detail their implementation in my [blog](www.mlresearchengineer.substack.com) soon. 
 
 # What's next 
 My goal is to make the performance of this checkpoint similar to the finetuned version on GSM8k. So stay tuned :) 
