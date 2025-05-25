@@ -1,5 +1,13 @@
 # minAZR
-![](assets/minAZR.png)
+<!-- To change the displayed image size, use HTML instead of Markdown: -->
+<img src="assets/minAZR.png" alt="minAZR" width="600" height="250"/>
+
+<!-- You can adjust the width (or use height) as needed. For example:
+<img src="assets/minAZR.png" alt="minAZR" width="600"/>
+-->
+Picture Credits: Original paper + a little bit of ChatGPT edits.
+
+
 This is a a minimal (~400 LoC) but functional implementation of the paper: Absolute Zero: Reinforced Self-play Reasoning with Zero Data. 
 
 # Introduction 
